@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "german-lyrics"
+version = "0.1.0"
+description = "TH Koeln DIS Projekt SoSe 2023"
+authors = ["RichardSieg <richard.sieg@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.10.10"
+spacy = "3.5.1"
+pandas = "1.5.3"
+ghostscript = "^0.7"
+plotly = "^5.4.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.12.0"
+ruff = "^0.0.237"
+pytest = "^6.0"
+jupyter = "^1.0.0"
+ipykernel = "^5.5.3"
+ipywidgets = "^7.6.3"
+mypy = "^0.910"
+pylint = "^2.13.5"
+
+[tool.ruff]
+line-length = 120
+# Allow unused variables when underscore-prefixed.
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+[tool.ruff.mccabe]
+# Unlike Flake8, default to a complexity level of 10.
+max-complexity = 10
+
+[build-system]
+requires = ["poetry>=1.4.0"]
+build-backend = "poetry.masonry.api"
