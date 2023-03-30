@@ -10,3 +10,4 @@ ipykernel >= 5.5.3
 ipywidgets >= 7.6.3
 mypy >= 0.910
 pylint >= 2.13.5
+
