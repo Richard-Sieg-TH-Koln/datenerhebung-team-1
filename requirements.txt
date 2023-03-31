@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 python == 3.10.10
+=======
+>>>>>>> origin/feedback
 spacy == 3.5.1
 pandas == 1.5.3
 ghostscript >= 0.7
