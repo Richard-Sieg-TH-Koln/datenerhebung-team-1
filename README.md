@@ -5,6 +5,8 @@ Dies ist das GitHub Repository für das DIS 22 Projekt im Sommersemester 2023.
 
 [KICK OFF SLIDES](https://docs.google.com/presentation/d/1ZCuXBB6UTuU16BaRwoI_s_GueJkL7dn6yA3QMEmVnOE/edit?usp=sharing)
 
+Genius API Token `aCR_2MFW9c27A8yjxOWlsCfqywd5w1KzwBZJMqncj4psGS0pPdcGzIv05TfkrKIG`
+
 ## Teamprotokoll
 
 Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt eure Notizen zum Ende der jeweiligen Kalenderwoche ein.,
