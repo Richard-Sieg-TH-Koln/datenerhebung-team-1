@@ -7,6 +7,7 @@ Dies ist das GitHub Repository für das DIS 22 Projekt im Sommersemester 2023.
 
 Genius API Token `aCR_2MFW9c27A8yjxOWlsCfqywd5w1KzwBZJMqncj4psGS0pPdcGzIv05TfkrKIG`
 
+Datensatz REPO: https://github.com/Richard-Sieg-TH-Koln/datensatze-default
 ## Teamprotokoll
 
 Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt eure Notizen zum Ende der jeweiligen Kalenderwoche ein.,
