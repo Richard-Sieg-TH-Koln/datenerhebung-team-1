@@ -14,7 +14,9 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 
 ### KW 15
 
-- Hier kommt euer aktueller Stand rein...
+- GermanSongCorpus (all.csv) um sämtliche Lyrics im Dataset erweitert.
+- Dummy Datasets erstellt, minimal gecleaned (Hausarbeiten, Auflistungen von Songs als Lyrics)
+- Dummy Dataset an Statistik Teams weitergegeben.
 
 ### KW 17
 
