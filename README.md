@@ -20,7 +20,19 @@ Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt e
 
 ### KW 17
 
-- Hier kommt euer aktueller Stand rein...
+Erneute Daten Bereinigung des Test Datensets nach Feedback vom Statistik Team:
+- Je Song sind alle Informationen / Lyrics jetzt in einer Zeile der CSV-Datei (Vorher Zeilenübergreifend)
+- Songtitel aus den Lyrics entfernt
+
+Anforderung Datenquelle für möglichts viele deutsche Songtexte:
+- Recherche für Datenquelle im Web und App (Bspw. Spotify / Chat GPT)
+- Skript für eine API zu Spotify geschrieben
+- Skript für eine API zu Chat_GPT geschrieben (Kostenpflichtige Anfragen)
+- Erneute Recherche in der Dokumentation zu Spotipy und wie die Suche nach deutschen Künstlern/Alben/Songs möglich ist
+
+Vielversprechenste Datenquelle für deutsche Künstler/Alben/Songs:
+- Mit bspw. Beautifulsoup die Informationen von  der folgenden Website extrahieren: https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad/artists 
+
 
 ### KW 19
 
