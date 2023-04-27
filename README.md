@@ -28,7 +28,7 @@ Anforderung Datenquelle für möglichts viele deutsche Songtexte:
 - Recherche für Datenquelle im Web und App (Bspw. Spotify / Chat GPT)
 - Skript für eine API zu Spotify geschrieben
 - Skript für eine API zu Chat_GPT geschrieben (Kostenpflichtige Anfragen)
-- Erneute Recherche in der Dokumentation zu Spotipy und wie die Suche nach deutschen Künstlern/Alben/Songs möglich ist
+- Erneute Recherche in der Dokumentation zu Spotipy und Genius wie die Suche nach deutschen Künstlern/Alben/Songs möglich ist
 
 Vielversprechenste Datenquelle für deutsche Künstler/Alben/Songs:
 - Mit bspw. Beautifulsoup die Informationen von  der folgenden Website extrahieren: https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad/artists 
