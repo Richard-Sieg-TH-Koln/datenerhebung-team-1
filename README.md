@@ -36,7 +36,9 @@ Vielversprechenste Datenquelle für deutsche Künstler/Alben/Songs:
 
 ### KW 19
 
-- Hier kommt euer aktueller Stand rein...
+- Skript geschrieben um Zugang zur MusicBrainz API zu kriegen. Wir versprechen uns daraus, dass wir weitere Deutsche Künstler abfangen können um unser Ziel, einen Datensatz von > 10.000 zu generieren.
+
+- Bestehendem Datensatz mit Spacy einen Wordcount hinzugefügt und Einträge mit Lyrics Token kleiner 45 und größer 600 dem Datensatz entfernt.
 
 ### KW 21
 
