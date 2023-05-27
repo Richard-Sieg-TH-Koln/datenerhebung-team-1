@@ -42,7 +42,11 @@ Vielversprechenste Datenquelle für deutsche Künstler/Alben/Songs:
 
 ### KW 21
 
-- Hier kommt euer aktueller Stand rein...
+- Wochentag dem Datensatz hinzugefügt für weitere Visualisierungen. 
+
+- Skript verfeinert und angepasst - Datensatz auf 9648 Einträge angereichert. 
+
+- Daten gesäubert
 
 ### KW 23
 
