@@ -5,25 +5,48 @@ Dies ist das GitHub Repository für das DIS 22 Projekt im Sommersemester 2023.
 
 [KICK OFF SLIDES](https://docs.google.com/presentation/d/1ZCuXBB6UTuU16BaRwoI_s_GueJkL7dn6yA3QMEmVnOE/edit?usp=sharing)
 
+Genius API Token `aCR_2MFW9c27A8yjxOWlsCfqywd5w1KzwBZJMqncj4psGS0pPdcGzIv05TfkrKIG`
+
+Datensatz REPO: https://github.com/Richard-Sieg-TH-Koln/datensatze-default
 ## Teamprotokoll
 
 Hier werden die Protokolle für den Fortschritt des Projektes gesammelt. Tragt eure Notizen zum Ende der jeweiligen Kalenderwoche ein.,
 
 ### KW 15
 
-- Hier kommt euer aktueller Stand rein...
+- GermanSongCorpus (all.csv) um sämtliche Lyrics im Dataset erweitert.
+- Dummy Datasets erstellt, minimal gecleaned (Hausarbeiten, Auflistungen von Songs als Lyrics)
+- Dummy Dataset an Statistik Teams weitergegeben.
 
 ### KW 17
 
-- Hier kommt euer aktueller Stand rein...
+Erneute Daten Bereinigung des Test Datensets nach Feedback vom Statistik Team:
+- Je Song sind alle Informationen / Lyrics jetzt in einer Zeile der CSV-Datei (Vorher Zeilenübergreifend)
+- Songtitel aus den Lyrics entfernt
+
+Anforderung Datenquelle für möglichts viele deutsche Songtexte:
+- Recherche für Datenquelle im Web und App (Bspw. Spotify / Chat GPT)
+- Skript für eine API zu Spotify geschrieben
+- Skript für eine API zu Chat_GPT geschrieben (Kostenpflichtige Anfragen)
+- Erneute Recherche in der Dokumentation zu Spotipy und Genius wie die Suche nach deutschen Künstlern/Alben/Songs möglich ist
+
+Vielversprechenste Datenquelle für deutsche Künstler/Alben/Songs:
+- Mit bspw. Beautifulsoup die Informationen von  der folgenden Website extrahieren: https://musicbrainz.org/area/85752fda-13c4-31a3-bee5-0e5cb1f51dad/artists 
+
 
 ### KW 19
 
-- Hier kommt euer aktueller Stand rein...
+- Skript geschrieben um Zugang zur MusicBrainz API zu kriegen. Wir versprechen uns daraus, dass wir weitere Deutsche Künstler abfangen können um unser Ziel, einen Datensatz von > 10.000 zu generieren.
+
+- Bestehendem Datensatz mit Spacy einen Wordcount hinzugefügt und Einträge mit Lyrics Token kleiner 45 und größer 600 dem Datensatz entfernt.
 
 ### KW 21
 
-- Hier kommt euer aktueller Stand rein...
+- Wochentag dem Datensatz hinzugefügt für weitere Visualisierungen. 
+
+- Skript verfeinert und angepasst - Datensatz auf 9648 Einträge angereichert. 
+
+- Daten gesäubert
 
 ### KW 23
 
